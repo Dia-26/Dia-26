@@ -23,14 +23,6 @@ dia = {
 }
 ```
 
-## 🚀 Things I've built
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Semantic Code Retrieval System](https://github.com/Dia-26) | AI-powered code search across 4,000+ code-description pairs, with reranking and a fast REST API. | CodeBERT, FAISS, FastAPI, Hugging Face |
-| [ScoreSight](https://github.com/Dia-26/ScoreSight-Predicting-EPL-Points-Tally) | Uses a decade of EPL data to forecast match outcomes and surface useful football analytics. | Python, Scikit-learn, Pandas, Flask |
-| [AyurMind](https://github.com/Dia-26/AyurMind) | An NLP-based Ayurvedic wellness assistant for structured symptom analysis and explainable guidance. | Python, spaCy, NLTK, Flask |
-
 ## 🧰 My toolbox
 
 **AI & data**  
